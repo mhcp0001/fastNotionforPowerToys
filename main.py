@@ -31,4 +31,4 @@ def add_row_to_notion_database(database_id):
 
 print(add_row_to_notion_database(database_id))
 
-exit(0)
+sys.exit()
